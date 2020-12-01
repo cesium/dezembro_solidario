@@ -85,7 +85,7 @@ secondweek:
       onde podem ganhar skills específicas numa fase inicial para depois se juntarem a uma Launch Team e desenvolver projetos para 
       o CeSIUM.
     speaker: 
-    org: 
+    org: CeSIUM
 
   - title: "Workshop de Adobe Illustrator"
     date: 8 de Dezembro
@@ -99,7 +99,7 @@ secondweek:
       Toll. Por fim, serão apresentandos alguns efeitos e truques mais avançados tais como Drop Shadow, Feather, Inner Glow, entre 
       outros.
     speaker: Luis Araújo
-    org: 
+    org: CeSIUM
 
   - title: "Hour of Code"
     date: 9 de Dezembro
@@ -112,7 +112,7 @@ secondweek:
       básico de 'coding'. Nesta edição vamos para o lado mais artístico da programação, ensinando-te a codificar o teu próprio 
       caleidoscópio!
     speaker: Alexandre Gomes
-    org: 
+    org: CeSIUM
 
 thirdweek:
   - title: "Dungeons and Dragons"
@@ -128,9 +128,8 @@ thirdweek:
       Dungeons and Dragons sendo um jogo de tabuleiro requer que todos os elementos de um grupo joguem numa sala para algumas horas 
       de roleplay e diversão. Face ao corrente estado de pandemia somos forçados a adaptar um pouco a experiência, passando a usar a 
       plataforma Roll20 de modo a possibilitar uma experiência de D&D à distância.
-
     speaker: 
-    org: 
+    org: CeSIUM
 
 fourthweek:
   - title: "Geek Night"
@@ -143,4 +142,4 @@ fourthweek:
       Talk de curta duração que visa promover a cultura informática num ambiente informal, através da partilha de curiosidades, 
       experiências e projetos pessoais.
     speaker: 
-    org: 
+    org: CeSIUM
