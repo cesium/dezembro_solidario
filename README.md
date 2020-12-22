@@ -1,6 +1,8 @@
 [contributing]: CONTRIBUTING.md
 [code_of_conduct]: CODE_OF_CONDUCT.md
 [license]: LICENSE.txt
+[cesium]: https://cesium.di.uminho.pt
+[cesium-logo]: https://raw.githubusercontent.com/cesium/dezembro_solidario/ne/readme/.github/cesium_preto.png
 
 <a href="https://dezembrosolidario.cesium.di.uminho.pt" target="_blank">
   <img align="right" src="img/sticker.png" alt="Dezembro Solidário" width="250">
@@ -82,3 +84,11 @@ to us.
 
 This project is licensed under the MIT License - see the [LICENSE][license] file
 for details.
+
+## :sparkles: About
+
+This website was developed with :heart: by [CeSIUM][cesium].
+
+[![CeSIUM][cesium-logo]][cesium]
+
+
